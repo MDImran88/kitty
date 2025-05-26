@@ -137,7 +137,7 @@
 </section>
 
 <!-- start of pricing-section -->
-<section class="pricing-section section-padding">
+<!-- <section class="pricing-section section-padding">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 col-12">
@@ -195,7 +195,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- end of page-wrapper -->
 <?php include('./includes/footer-inner.php');?>

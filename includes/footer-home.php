@@ -6,8 +6,7 @@
                 <div class="col col-lg-6 col-md-6 col-sm-12 col-12">
                     <div class="widget about-widget">
                         <div class="widget-title">
-                            <h2>Best Pet Care Agency For
-                                Your Favorite Pets</h2>
+                            <h2>Trusted Pet Care Experts for Your Beloved Companions</h2>
                         </div>
                         <div class="social-widget">
                             <ul>

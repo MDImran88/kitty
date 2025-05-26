@@ -4,10 +4,11 @@
 <section class="hero-section">
     <div class="hero-inner-slider">
         <div class="hero-inner">
-            <h2>Best Pet Care Service Company</h2>
-            <h3>Your Pet’s Happiness, Our Priority.</h3>
-            <p>We caring your pets, loving them like family. We are the company
-                where happy pets and happy owners meet.
+            <h2>Elite Pet Care, Happy Tails</h2>
+            <h3>Caring for Pets, Loving Them Like Family</h3>
+            <p>We care for your pets and love them like family. We go beyond pet services — we
+                create joyful experiences where happy pets and happy owners come together. Trust us to treat your furry
+                friends with the compassion and attention they deserve.
             </p>
             <a href="contact.php" class="theme-btn-s2">Make A Reservation</a>
         </div>
@@ -65,8 +66,8 @@
                     <img src="assets/images/service/1.svg" alt="">
                 </div>
                 <div class="content">
-                    <h2><a href="service-single.php">Over Night Care</a></h2>
-                    <p>If you are away for the night, we can keep your favorite pet happy and safe. </p>
+                    <h2><a href="service-single.php">Sleepover Care </a></h2>
+                    <p>Peace of Mind While They Dream Safe and Sound.</p>
                 </div>
             </div>
         </div>
@@ -77,7 +78,7 @@
                 </div>
                 <div class="content">
                     <h2><a href="service-single.php">Pet Walking</a></h2>
-                    <p>If you are away for the night, we can keep your favorite pet happy and safe. </p>
+                    <p>Because Every Walk Should Feel Like an Adventure. </p>
                 </div>
             </div>
         </div>
@@ -88,7 +89,7 @@
                 </div>
                 <div class="content">
                     <h2><a href="service-single.php">Pet Grooming</a></h2>
-                    <p>If you are away for the night, we can keep your favorite pet happy and safe. </p>
+                    <p>Our gentle grooming leaves pets not only looking great but feeling loved and stress-free. </p>
                 </div>
             </div>
         </div>
@@ -99,7 +100,7 @@
                 </div>
                 <div class="content">
                     <h2><a href="service-single.php">Vaccination</a></h2>
-                    <p>If you are away for the night, we can keep your favorite pet happy and safe. </p>
+                    <p>Keep your pet safe with essential, vet-recommended vaccinations. </p>
                 </div>
             </div>
         </div>
@@ -233,7 +234,7 @@
 </section>
 
 <!-- start of pricing-section -->
-<section class="pricing-section section-padding">
+<!-- <section class="pricing-section section-padding">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 col-12">
@@ -291,7 +292,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- start of testimonial-section -->
 <section class="testimonial-section section-padding">
@@ -401,7 +402,7 @@
 </section>
 
 <!-- start of blog-section -->
-<section class="blog-section section-padding">
+<!-- <section class="blog-section section-padding">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 col-12">
@@ -460,6 +461,6 @@
 
         </div>
     </div>
-</section>
+</section> -->
 
 <?php include('./includes/footer-home.php');?>
