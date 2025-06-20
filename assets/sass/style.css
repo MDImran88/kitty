@@ -7904,13 +7904,41 @@ img {
 }/*# sourceMappingURL=style.css.map */
 .whatsapp-float {
   position: fixed;
-  bottom: 60px;
+  bottom: 80px;
   right: 20px;
   z-index: 100;
   cursor: pointer;
 }
 
 .whatsapp-float img {
+  width: 50px;
+  height: 50px;
+}
+
+.direct-call {
+  position: fixed;
+  bottom: 140px;
+  right: 20px;
+  z-index: 100;
+  cursor: pointer;
+}
+
+.direct-call img {
+  width: 50px;
+  height: 50px;
+}
+
+
+
+.phone-call-float {
+  position: fixed;
+  bottom: 60px;
+  left: 20px;
+  z-index: 100;
+  cursor: pointer;
+}
+
+.phone-call-float img {
   width: 50px;
   height: 50px;
 }

@@ -67,8 +67,16 @@
             </div>
         </div>
     </div>
+    <a href="https://www.instagram.com/guddu_riyaz?igsh=MTJ6dzYxcHQ1MnRqaw==" class="direct-call" target="_blank"
+        rel="noopener">
+        <img src="assets/images/instagram-icon.png" alt="Instagram" />
+    </a>
+
     <a href="https://wa.me/919873236850" class="whatsapp-float" target="_blank" rel="noopener">
         <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp Chat" />
+    </a>
+    <a href="tel:919873236850" class="phone-call-float" target="_blank" rel="noopener">
+        <img src="assets/images/telephone-call.png" alt="Phone call" />
     </a>
 </footer>
 
